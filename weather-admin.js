@@ -1,5 +1,6 @@
 var fs = require("fs");
 var UserSearch = require("./UserSearch");
+var moment = require('moment');
 
 var weatherAdmin = function() {
     this.getData = function(){

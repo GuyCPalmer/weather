@@ -9,6 +9,16 @@
   "author": "Guy Palmer",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.22.0",
     "weather-js": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuyCPalmer/weather.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GuyCPalmer/weather/issues"
+  },
+  "homepage": "https://github.com/GuyCPalmer/weather#readme"
 }
